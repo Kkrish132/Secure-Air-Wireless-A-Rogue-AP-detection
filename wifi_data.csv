@@ -1,0 +1,5 @@
+SSID,BSSID,Channel,Signal,Encryption
+College_WiFi,AA:BB:CC:11:22:33,6,-40,WPA2
+College_WiFi,DD:EE:FF:44:55:66,6,-30,OPEN
+Library_Net,11:22:33:44:55:66,11,-50,WPA2
+Cafe_Free_WiFi,77:88:99:AA:BB:CC,1,-65,OPEN
